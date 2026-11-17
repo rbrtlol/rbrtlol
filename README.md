@@ -1,16 +1,14 @@
-## Hi there 👋
+# Robert Rosenquist
 
-<!--
-**rbrtlol/rbrtlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at KTH in Stockholm (master's in Computer Science, visualisation track). Teaching assistant in Database Technology and Head of Reception at the Computer Science Chapter.
 
-Here are some ideas to get you started:
+**Building**
+- [canvas-readonly-mcp](https://github.com/rbrtlol/canvas-readonly-mcp): a read-only MCP server that lets AI assistants read Canvas courses, deadlines and course files
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Other work**
+- Bachelor's thesis: comparing the CLAP and OpenL3 audio embedding models for music recommendation (PyTorch)
+- Payload Designer GUI for a space-tech startup: Electron, React, TypeScript (client project, code not public)
+
+**Languages:** Java · Python · SQL · TypeScript · C/C++ · Rust
+
+[LinkedIn](https://www.linkedin.com/in/robert-rosenquist)
